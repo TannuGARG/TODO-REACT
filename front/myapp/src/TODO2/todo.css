@@ -1,0 +1,28 @@
+.reduce{
+    background-color: cadetblue;
+    padding: 3px;
+    margin: 3px;
+}
+.reduce .delete-todo{
+    float:right;
+}
+
+.my-form .txt{
+    height: 30px;
+    border-color: darkblue;
+}
+.my-form .btn{
+    float:right;
+    height: 30px;
+    background-color: chocolate;
+}
+.header h1{
+    color: coral;
+    text-align: center;
+    font-weight: bold;
+    color: darkcyan;
+    padding: 5px;
+}
+div .done .completed-todo{
+    background-color: brown;
+}
